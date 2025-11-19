@@ -33,4 +33,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joyassroy&" alt="joyassroy" /></p>
 
 
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+
+![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
+
+
 
