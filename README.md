@@ -7,17 +7,23 @@
 </p>
 
 # 💫 About Me:
-<!-- Fun and Personal -->
-- 🔭 I’m currently working on **MERN projects & learning backend scaling**
-- 🌱 Always learning: **React, Node.js, and Next.js**
-- 👯 Looking to **collaborate on open-source and creative projects**
-- 🤝 Open for **freelance and collaborative opportunities**
-- 💬 Ask me **about JavaScript, React, or MongoDB and Competitive Programming!**
-- 📫 Reach me at: **barua22205101616@diu.edu.bd**
-- ⚡ Fun fact: **Dark theme = better code 😉**
-- 🕹️ Scroll down for **games & cool GitHub visuals!**
+<div style="background-color: #000000; padding: 10px; border-radius: 5px;">
+
+
+<br/>
+<img src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/refs/heads/master/thoughtworks-gif_dribbble.gif" width="260px" align="right"/>
+
+🔹 🔭 I’m currently working on **MERN projects & learning backend scaling** <br/>
+🔹 🌱 Always learning: **React, Node.js, and Next.js**<br/>
+🔹 👯 Looking to **collaborate on open-source and creative projects**<br/>
+🔹 🤝 Open for **freelance and collaborative opportunities**<br/>
+🔹 💬 Ask me **about JavaScript, React, or MongoDB!** <br/>
+🔹 📫 Reach me at: **barua22205101616@diu.edu.bd**<br/>
+🔹 ⚡ Fun fact: **Dark theme = better code 😉**<br/>
+
+</div>
   <br/>
-  <br/> 
+
 
 
 ## 🌐 Socials:
